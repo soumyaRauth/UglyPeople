@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#535353</color>
+    <color name="colorPrimaryDark">#5bfcd1</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="textFieldColor">#c2c2c2</color>
+    <color name="fabActionBar">#57f13c</color>
+    <color name="button_appriciate_color">#89ec93</color>
+    <color name="button_disgraceful">#e94f55</color>
+    <color name="share">#4fa6e9</color>
+</resources>

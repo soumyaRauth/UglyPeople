@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "734030309409",
+    "firebase_url": "https://uglypeople-c3566.firebaseio.com",
+    "project_id": "uglypeople-c3566",
+    "storage_bucket": "uglypeople-c3566.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734030309409:android:587aa2a88c331129",
+        "android_client_info": {
+          "package_name": "com.soumya.uglypeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734030309409-dtb45fcn5ndjqesejnmepufsi7080s97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soumya.uglypeople",
+            "certificate_hash": "08D0959522125B827F1CEF06BFB1E393E640500C"
+          }
+        },
+        {
+          "client_id": "734030309409-n73j30lo739pk47nva9rgoagu9cmi50c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLXBb7V5qJXMczJZ25P8fGoSeZIWokOg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734030309409-n73j30lo739pk47nva9rgoagu9cmi50c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
